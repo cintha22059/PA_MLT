@@ -172,6 +172,7 @@ Secara umum, silhouette score yang lebih tinggi menunjukkan kluster yang lebih b
 
 ## Evaluation
 Metrik Evaluasi untuk Model Clustering
+![alt text](https://github.com/cintha22059/PA_MLT/blob/main/plot%20silhouette%20score.png?raw=true)
 
 Silhouette Score
 - **Deskripsi**: Mengukur seberapa mirip objek dengan cluster-nya sendiri dibandingkan dengan cluster lain.
