@@ -172,7 +172,7 @@ Secara umum, silhouette score yang lebih tinggi menunjukkan kluster yang lebih b
 
 ## Evaluation
 Metrik Evaluasi untuk Model Clustering
-![Alt Text](https://drive.google.com/file/d/1nWT77wiODQWOBLN38tNML2ZdbHhmviqp/view?usp=sharing)
+
 Silhouette Score
 - **Deskripsi**: Mengukur seberapa mirip objek dengan cluster-nya sendiri dibandingkan dengan cluster lain.
 - **Range nilai**: -1 hingga 1.
