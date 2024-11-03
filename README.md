@@ -46,7 +46,9 @@ Menjelaskan tujuan dari pernyataan masalah:
 evaluasi clustering silhoutte.
 
 ## Data Understanding
-Dataset ini memiliki data 1K+ Peringkat dan Ulasan Produk Amazon sesuai detailnya yang tercantum di situs web resmi Amazon
+Dataset ini memiliki data 1465 Peringkat dan Ulasan Produk Amazon sesuai detailnya yang tercantum di situs web resmi Amazon
+Jumlah baris : 1465
+Jumlah Kolom : 16
 
 ### Variabel-variabel pada Amazon Sales dataset:
 | Fitur                | Deskripsi                                         |
