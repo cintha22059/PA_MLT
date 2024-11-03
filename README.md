@@ -172,6 +172,7 @@ Secara umum, silhouette score yang lebih tinggi menunjukkan kluster yang lebih b
 
 ## Evaluation
 Metrik Evaluasi untuk Model Clustering
+![Alt Text](https://drive.google.com/file/d/1nWT77wiODQWOBLN38tNML2ZdbHhmviqp/view?usp=sharing)
 Silhouette Score
 - **Deskripsi**: Mengukur seberapa mirip objek dengan cluster-nya sendiri dibandingkan dengan cluster lain.
 - **Range nilai**: -1 hingga 1.
@@ -218,7 +219,7 @@ Analisis:
 
 Cluster 1 merepresentasikan produk populer dengan engagement tinggi. Review cenderung lebih singkat namun konsisten. Harga dan diskon lebih stabil dibanding Cluster 0. Produk-produk ini memiliki basis pengguna yang besar dengan rating yang konsisten tinggi, menunjukkan kualitas dan kepuasan pelanggan yang lebih terjamin.
 
-
+**Evaluasi terhadap Business Understanding**
 Hasil analisis cluster berhasil menjawab problem statement dengan memberikan wawasan mendalam mengenai perilaku konsumen dan faktor-faktor yang mempengaruhi performa produk. Cluster 0 dan Cluster 1 menunjukkan pola perilaku yang berbeda dalam hal panjang ulasan, rasio harga, diskon, jumlah rating, dan rating yang diberikan, yang mencerminkan preferensi konsumen terhadap berbagai jenis produk.
 
 Model berhasil mencapai goals yang diharapkan. Analisis yang dilakukan pada masing-masing cluster memberikan pemahaman yang lebih baik tentang bagaimana konsumen berinteraksi dengan produk berdasarkan rating dan ulasan mereka. Selain itu, identifikasi cluster yang menunjukkan produk dengan engagement rendah dan tinggi dapat membantu dalam pengambilan keputusan strategis.
